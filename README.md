@@ -36,9 +36,11 @@ My Profile🤙🖖
     - **Freamwork**
         - vueJs
         - ReactJS
+        - TypeScript
         - Node js
-        - Ant Design
-        - Bootstrap  
+        - AntDesign
+        - Bootstrap 
+        - MaterialUI 
         - CSS
     - **Editors**
         - PyCharm
