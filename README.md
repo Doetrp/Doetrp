@@ -30,19 +30,19 @@ My Profile🤙🖖
 - ***Language and Freamwork***
     - **Language**
         - JavaScript
+        - TypeScript
         - Python 
         - HTML
         - C++
     - **Freamwork**
         - vueJs
-        - ReactJS
-        - TypeScript
+        - ReactJs
+        - NextJs
         - Node js
         - AntDesign
         - Bootstrap 
-        - MaterialUI 
+        - MaterialUI
+        - Tailawind
         - CSS
     - **Editors**
-        - PyCharm
-        - Idle
         - Visual Studio Code
